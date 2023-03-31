@@ -1,6 +1,6 @@
 Name:		texlive-hackthefootline
 Version:	46494
-Release:	1
+Release:	2
 Summary:	Footline selection and configuration for LaTeX beamer's standard themes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hackthefootline
