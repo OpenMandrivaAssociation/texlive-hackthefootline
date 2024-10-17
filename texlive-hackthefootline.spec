@@ -3,7 +3,7 @@ Version:	46494
 Release:	2
 Summary:	Footline selection and configuration for LaTeX beamer's standard themes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hackthefootline
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hackthefootline
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hackthefootline.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hackthefootline.doc.r%{version}.tar.xz
